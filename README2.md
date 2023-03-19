@@ -1,5 +1,0 @@
-Skyscrapers and Humans
-
-With standard of living rising all over the world and more people moving to cities, buildings are getting taller and taller. Not only do skyscrapers provide retail, office, and living spaces for people, some have even become attractions being known for the height. The U.S has several well-known skyscrapers, but the height is not comparable to others in the world.This project seeks to answer several main questions about skyscraper and their locations. What building type allows for more height? And does the demographic of the state/county (such as median household income, per capita income, land area, mean travel time to work, etc.) correpsond to the number of skyscrapers developed in a specific county? 
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cyricng/DH140_Final_Project.git/HEAD)

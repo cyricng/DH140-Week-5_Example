@@ -1,24 +1,9 @@
-# DH140 Final Project Ideas
+# Skyscrapers and Humans
 
-**Topics I am currently interested in:**
+**Projection Description**
+With standard of living rising all over the world and more people moving to cities, buildings are getting taller and taller. Not only do skyscrapers provide retail, office, and living spaces for people, some have even become attractions being known for the height. The U.S has several well-known skyscrapers, but the height is not comparable to others in the world. In addition, studies have shown that skyscrapers can help make cities affordable and greener. This project seeks to answer several main questions about skyscraper and their locations. First part of the project will look at the history of skyscrapers, such as the material and height throughout time. The second will analyze 6 main variables of interest to investigate the relationship between the demographic of a city and the number of skyscrapers. 
 
-1. Urbanization and mapping
-- I would be interested in possibly mapping demographics using Census data. 
-2. Geography and affects on population
-- Another interesting topic I have in mind would be finding geography related data sets (such as weather, El Nino, clouds, etc.) and seeing how it interacts and affects the population. 
+Link to blog: https://cyricng.github.io/cyricblog/
 
-**Related Articles:**
-https://hongkongfp.com/2022/10/06/hong-kongs-wealth-gap-reaches-tipping-point-under-covid-as-unemployment-rises-among-poor-oxfam-says/
-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0068400
-https://dornsife.usc.edu/assets/sites/291/docs/pdfs/City_of_LA_SLR_Vulnerability_Study_FINAL_Summary_Report_Online_Hyperlinks.pdf
-https://studylib.net/doc/14007767/drowned--atmospheric-river-storm-in-1861-turned-californi...
-https://www.researchgate.net/publication/317339106_Impact_of_Popular_Culture_to_Tourism_A_Study_on_The_Influence_of_Watching_Korean_Dramas_to_Female_UPLB_Students%27_Desire_to_Travel_to_South_Korea
-https://link.springer.com/article/10.1007/s11135-016-0371-9
-
-**Ideas from curated datasets & project lists**
-1. El Nino
-- Ocean and surface spatio-temporal meteorological readings taken from nearly 70 buoys on the Equatorial Pacific Ocean to monitor ENSO. It has wind data, temperature, SST, relative humidity, etc. I can use this data to determine anomalies and interesting weather phenomenons compared to normal conditions.
-2. Clouds
-- The cloud dataset is grided data of visible and infrared radiation. It will be useful to use with ENSO data, such as SST and temperatures; however, there is a little documentation and it is not normalized.
-3. Air Quality
-- Dataset is collected from an Italian field from Mar 2004 to Feb 2005. The data contains hourly averages for 5 main chemicals: CO, non-metal hydrocarbons, benzene, NOx, and NO2. It will be interesting to use this data to investigate seasonal differences in air quality and chemical compositions.
+Link to Binder:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cyricng/DH140_Final_Project.git/HEAD)
