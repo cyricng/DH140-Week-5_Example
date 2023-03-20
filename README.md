@@ -6,7 +6,7 @@ With standard of living rising all over the world and more people moving to citi
 **Repository Contents**
 The repository contains CSV files of the city census values and skyscraper data. It contains the final project notebook with all the code, a README, and requirements of packages needed to run the project.
 
-Link to blog: https://cyricng.github.io/cyricblog/
+Link to blog: https://cyricng.github.io/cyricblog/posts/Final%20Project%20Blog%20Post.html
 
 Link to Binder:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cyricng/DH140_Final_Project.git/HEAD)
